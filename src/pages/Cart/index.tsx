@@ -97,7 +97,7 @@ const Cart = (): JSX.Element => {
                 data-testid="remove-product"
               // onClick={() => handleRemoveProduct(product.id)}
               >
-                <MdDelete size={20} />
+                <MdDelete size={20} /> 
               </button>
             </td>
           </tr>
